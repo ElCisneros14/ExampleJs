@@ -17,3 +17,14 @@ let persona = {
 }
 
     console.log(persona)
+
+    let mascota = {
+        nombre: 'rocco',
+        age: '5',
+        color: 'brown',
+        eyes: 'green',
+        raza: 'sharpein',
+        dangerousDog: 'yes',
+    }
+
+    console.log(mascota)
