@@ -36,3 +36,15 @@ let persona = {
         contador++
     }
     console.log(contador)
+
+   function sumar(numero1, numero2){
+        return numero1 + numero2;
+    }
+    /*    
+    const sumar = function(n1, n2){
+        return n1 + n2;
+    }*/
+
+let resultado = sumar(2,2)
+
+console.log(resultado)
